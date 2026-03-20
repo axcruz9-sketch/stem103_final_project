@@ -1,7 +1,7 @@
 import random
 #Import the random libary to allow the computer to randomly select their characters, attack, and both the user to land critcal hits
 
-from functions import choose_character
+from animal_fighters import choose_character
 #Imports the function from function.py
 play_again = "y"
 # play_again makes it so if you want to play the game again
@@ -28,7 +28,7 @@ while play_again.lower() == "y":
     }
 #I used a dictionary to stores the characters, attacks, and the different amount of damage each attack has
    
-    print("welcome to animal fighters")
+    print("welcome to Animal Fighters")
 #Displays the welcome with the game's name
     enter_CS = int(input("click 1 if you would like to enter character selection "))
 # Ask the user if they want to go into Character selection
