@@ -1,2 +1,5 @@
 # stem103_final_project
-This is my final project for stem103
+# Name
+Alex Cruz
+# Description
+My project is about a text-based Python game called Animal Fighters, where the player selects a character and fights the computer opponent while using different abilities that all each have their own amount of damage. I used a lot of different inputs, for example, the characters, allowing different options for attacks. I believe I learned how to use 2 functions from the random library, specifically random.choice() for the computer's actions and random.randit() to allow for critical hits to be used. I would say a challenge i faced sometimes was i would run my program and it would crash, but that was because i didn’t finish the whole input, which i overcame by making sure i finished the whole input but i would like to add that I also overcame invalid inputs by look through my logic, making sure things weren’t spelled differently and forgetting commas.
